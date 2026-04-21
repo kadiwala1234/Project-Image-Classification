@@ -1,4 +1,5 @@
-Image Classification using Random Forest & SVM
+**Image Classification using Random Forest & SVM
+**
 Project Overview
 
 This project implements an image classification system using traditional machine learning techniques: Random Forest and Support Vector Machine (SVM). The goal is to classify images into different categories after preprocessing them into feature vectors.
